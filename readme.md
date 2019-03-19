@@ -15,7 +15,7 @@ We will be working with computational notebooks (Jupyter Notebooks) and I will b
 
 Day one will cover various ways to explore larger datasets with a time dimension as well as visualize some of the results. We will be working with the Dataset from Stanford’s Open Policing project: https://openpolicing.stanford.edu/.
 
-![Notebook for Day 1](https://nbviewer.jupyter.org/github/RJuro/CALDISS-EDA/blob/master/CALDISS_EDA1.ipynb)
+[Notebook for Day 1](https://nbviewer.jupyter.org/github/RJuro/CALDISS-EDA/blob/master/CALDISS_EDA1.ipynb)
 
 Day two will go deeper, exploring unsupervised machine learning techniques (dimensionality reduction – PCA, NMF, T-SNE, UMAP and clustering – Kmeans, Hierarchical, (H)DBSCAN) for exploratory analysis.
 
