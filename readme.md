@@ -11,7 +11,7 @@ In this 2-day workshop we will briefly review the usage of Python Pandas package
 
 We will be working with computational notebooks (Jupyter Notebooks) and I will be using Google Colab (free Google Docs for Python on hosted instances). You can do the same with your own anaconda installation or any Jupyter installation of your choice (however you may need to install packages).
 
-![alt text](https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif  =600x400)
+![alt text](https://media.giphy.com/media/12bVDtXPOzYwda/giphy.gif)
 
 Day one will cover various ways to explore larger datasets with a time dimension as well as visualize some of the results. We will be working with the Dataset from Stanford’s Open Policing project: https://openpolicing.stanford.edu/.
 
