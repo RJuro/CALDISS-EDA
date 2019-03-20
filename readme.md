@@ -19,4 +19,4 @@ Day one will cover various ways to explore larger datasets with a time dimension
 
 Day two will go deeper, exploring unsupervised machine learning techniques (dimensionality reduction – PCA, NMF, T-SNE, UMAP and clustering – Kmeans, Hierarchical, (H)DBSCAN) for exploratory analysis.
 
-LINK to NB
+[Notebook for Day 2](https://nbviewer.jupyter.org/github/RJuro/CALDISS-EDA/blob/master/CALDISS_EDA2.ipynb)
