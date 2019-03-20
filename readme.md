@@ -20,3 +20,9 @@ Day one will cover various ways to explore larger datasets with a time dimension
 Day two will go deeper, exploring unsupervised machine learning techniques (dimensionality reduction – PCA, NMF, T-SNE, UMAP and clustering – Kmeans, Hierarchical, (H)DBSCAN) for exploratory analysis.
 
 [Notebook for Day 2](https://nbviewer.jupyter.org/github/RJuro/CALDISS-EDA/blob/master/CALDISS_EDA2.ipynb)
+
+## Some other resources 
+- https://mlcourse.ai/: Notebook based course in machine learning (we covered Topics 1 and 7 in the past 2 days)
+- https://www.fast.ai/: If you want to go (much) further. Consider also the Computation Linear Algebra courses they offer.
+- get access to Datacamp or Dataquest (free trial)
+- http://datasciencemasters.org/: Curriculum of many resources to consider if you want to really get skilled...including maths
